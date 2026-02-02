@@ -1,3 +1,3 @@
-module github.com/horstrs/Learn_docker
+module github.com/horstrs/learn_docker
 
 go 1.25.1
